@@ -98,7 +98,6 @@ function playGame() {
         }
 
         console.log(`Score: Computer ${computerScore} - Human ${humanScore}`)
-
     }
     
     console.log('-------------------------------------')
